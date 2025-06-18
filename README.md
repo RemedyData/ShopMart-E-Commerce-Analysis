@@ -9,7 +9,6 @@ ShopMart_E_Commerce_Company/
 - `analysis.ipynb`: Contains the main Jupyter Notebook for data analysis
 - `key.env`: Contains my DB credentials
 - `db.py`: Reusable database connector
-- `__init__.py`: Treats my project folder as a Python module
 - `requirements.txt`: Python packages list
 - `seed_db.py`: Schema + Simulated data generator
 - `schema.sql`: SQL schema (reference only)
